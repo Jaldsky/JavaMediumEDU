@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaMediumEDU.iml" filepath="$PROJECT_DIR$/JavaMediumEDU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenAndJUnit/MavenAndJUnit.iml" filepath="$PROJECT_DIR$/MavenAndJUnit/MavenAndJUnit.iml" />
     </modules>
   </component>
 </project>

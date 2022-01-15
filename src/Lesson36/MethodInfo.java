@@ -1,4 +1,4 @@
-package Lesson35;
+package Lesson36;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package Lesson35;
+package Lesson36;
 
 public class Test {
     @MethodInfo(purpose = "Print Hello World!")
